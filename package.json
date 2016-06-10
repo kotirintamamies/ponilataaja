@@ -1,0 +1,23 @@
+{
+  "name": "ponilataaja",
+  "version": "1.0.0",
+  "description": "Nodella tehty Bashin batch download vanhemman lapsen suosimalle my little pony -viihteelle. Parsii yhtä blogisivustoa ja lataa siitä. Tarvitsee youtube-dl externalin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "request": "latest",
+    "shelljs": "latest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotirintamamies/ponilataaja.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kotirintamamies/ponilataaja/issues"
+  },
+  "homepage": "https://github.com/kotirintamamies/ponilataaja#readme"
+}
